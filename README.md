@@ -5,9 +5,14 @@ Muestras secuenciales de 5 electrodomesticos más el agregado usando el OMPM  (e
 
 Aquí tres posibles intervalos para entrenamiento, validación y prueba para tu conjunto de datos:
 
-Entrenamiento: mediciones 1, 2, 3 y 4
-Validación: medida 5
-Pruebas: medida 6 Esta división le dará un conjunto de entrenamiento con el 75% de los datos, un conjunto de validación con el 16,67% de los datos y un conjunto de prueba con el 8,33% de los datos.
+- Entrenamiento: mediciones 1, 2, 3 y 4
+
+- Validación: medida 5
+
+- Pruebas: medida 6 
+
+ 
+ Esta división le dará un conjunto de entrenamiento con el 75% de los datos, un conjunto de validación con el 16,67% de los datos y un conjunto de prueba con el 8,33% de los datos.
 
 
 
